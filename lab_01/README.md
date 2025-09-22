@@ -1,7 +1,7 @@
 ## **Дисциплина**: Анализ сложности алгоритмов
 ## Тема 01: Введение в алгоритмы. Сложность. Поиск.
 ### Выполнила студентка группы ПИЖ-б-о-23-1(1) Журавлева Софья Витальевна 
-**Репозиторий Git:** https://github.com/lookitsssonya/pizh2311_zhuravleva  <br></br>
+**Репозиторий Git:** https://github.com/lookitsssonya/pizh2311-zhuravleva  <br></br>
 **Цель работы:**   
 Освоить понятие вычислительной сложности алгоритма. Получить практические навыки
 реализации и анализа линейного и бинарного поиска. Научиться экспериментально подтверждать
@@ -359,7 +359,8 @@ if __name__ == '__main__':
 
 ```
 *Пример вывода:*  
-<img src="./lab_01/out.png">   
-<img src="./lab_01/out2.png">   
-<img src="./lab_01/out3.png">   
-<img src="./lab_01/search_performance.png">
+<img src="/lab_01/out.png">   
+<img src="/lab_01/out2.png">   
+<img src="/lab_01/out3.png">   
+
+<img src="/lab_01/search_performance.png">
